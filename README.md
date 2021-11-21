@@ -26,9 +26,9 @@ Repository built with examples of numerical calculus, linear algebra and numeric
 
 ## 💻 Technologies
 
-<a href="https://julialang.org/"><img src="https://img.shields.io/badge/-Julia-2D325E?labelColor=F0DB4F&style=for-the-badge&logo=yarn&logoColor=2D325E" alt="Julia"></a>
+<a href="https://julialang.org/"><img src="https://img.shields.io/badge/-Julia-2D325E?labelColor=F0DB4F&style=for-the-badge&logo=julia&logoColor=2D325E" alt="Julia"></a>
 
-<a href="https://jupyter.org/"><img src="https://img.shields.io/badge/-Jupyter-2D325E?labelColor=F0DB4F&style=for-the-badge&logo=react&logoColor=2D325E" alt="Jupyter"></a>
+<a href="https://jupyter.org/"><img src="https://img.shields.io/badge/-Jupyter-2D325E?labelColor=F0DB4F&style=for-the-badge&logo=jupyter&logoColor=2D325E" alt="Jupyter"></a>
 
 ## ✨ Installation
 Open a terminal and make the following steps:
@@ -45,12 +45,11 @@ cinst julia
 
 # open the folder with VSCODE
 code .
-
-# install julia inside and jupyter extension
-https://code.visualstudio.com/docs/languages/julia
-https://marketplace.visualstudio.com/items?itemName=ms-toolsai.jupyter
-
 ```
+
+now install julia inside and jupyter extension
+[Julia](https://marketplace.visualstudio.com/items?itemName=julialang.language-julia)
+[Jupyter](https://marketplace.visualstudio.com/items?itemName=ms-toolsai.jupyter)
 
 ## 🔥 Running
 You can run every notebook with the play button using jupyter extension:
